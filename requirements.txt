@@ -3,3 +3,4 @@ requests
 pandas
 numpy
 plotly
+numba==0.60.0
